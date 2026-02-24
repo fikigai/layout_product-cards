@@ -1,5 +1,4 @@
 @use './variables' as *;
-@use './fonts' as *;
 
 @mixin page-standart-font($weight: 400) {
   font-family: Roboto, sans-serif;
